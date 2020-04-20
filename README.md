@@ -1,72 +1,75 @@
 # Digital-Image-Processing
 EE 569 - Digital Image Processing - Spring 2019 - Graduate Coursework at USC - Dr. C.-C. Jay Kuo
 
-###### ------------------HomeWork 1------------------------
+### ------------------HomeWork 1------------------------
 
-Problem 1: Image Demosaicing and Histogram Manipulation
+###### Problem 1: Image Demosaicing and Histogram Manipulation
 
-(a) Bilinear Demosaicing
-(b) Malvar-He-Cutler (MHC) Demosaicing
-(c) Histogram Manipulation
-Problem 2: Image Denoising
+- Bilinear Demosaicing
+- Malvar-He-Cutler (MHC) Demosaicing
+- Histogram Manipulation
 
-(a) Gray-level image
-(b) Color image
-(c) Shot noise
+###### Problem 2: Image Denoising
 
-###### ------------------HomeWork 2------------------------
+- Gray-level image
+- Color image
+- Shot noise
 
-Problem 1: Edge Detection
+### ------------------HomeWork 2------------------------
 
-(a) Sobel Edge Detector
-(b) Canny Edge Detector
-(c) Structured Edge
-(d) Performance Evaluation
-Problem 2: Digital Half-toning
+###### Problem 1: Edge Detection
 
-(a) Dithering
-(b) Error Diffusion
-(c) Color Halftoning with Error Diffusion
+- Sobel Edge Detector
+- Canny Edge Detector
+- Structured Edge
+- Performance Evaluation
 
-###### ------------------HomeWork 3------------------------
+###### Problem 2: Digital Half-toning
 
-Problem 1: Geometric Modification
+- Dithering
+- Error Diffusion
+- Color Halftoning with Error Diffusion
 
-(a) Geometric Transformation
-(b) Spatial Warping
-(c) Lens Distortion Correction
-Problem 2: Morphological Processing
+### ------------------HomeWork 3------------------------
 
-(a) Basic Morphological Process Implementation
-(b) Defect Detection and Correction
-(c) Object Analysis
+###### Problem 1: Geometric Modification
 
-###### ------------------HomeWork 4------------------------
+- Geometric Transformation
+- Spatial Warping
+- Lens Distortion Correction
 
-Problem 1: Texture Analysis
+###### Problem 2: Morphological Processing
 
-(a) Texture Classification
-(b) Texture Segmentation
-(c) Advanced Texture Segmentation Techniques
+- Basic Morphological Process Implementation
+- Defect Detection and Correction
+- Object Analysis
 
-Problem 2: Image Feature Extractor
+### ------------------HomeWork 4------------------------
 
-(a) SIFT
-(b) Image Matching
-(c) Bag of Words
+###### Problem 1: Texture Analysis
 
-###### ------------------HomeWork 5------------------------
+- Texture Classification
+- Texture Segmentation
+- Advanced Texture Segmentation Techniques
 
-Problem 1: CNN Training and Its Application to the MNIST Dataset
+###### Problem 2: Image Feature Extractor
 
-(a) CNN Architecture and Training
-(b) Train LeNet-5 on MNIST Dataset
-(c) Apply trained network to negative images
+- SIFT
+- Image Matching
+- Bag of Words
 
-###### ------------------HomeWork 6------------------------
+### ------------------HomeWork 5------------------------
 
-Problem 1: Feedforward CNN Design and Its Application to the MNIST Dataset
+###### Problem 1: CNN Training and Its Application to the MNIST Dataset
 
-(a) Understanding of feedforward-designed convolutional neural networks
-(b) Image reconstructions from Saab coefficients
-(c) Handwritten digits recognition using ensembles of feedforward design
+- CNN Architecture and Training
+- Train LeNet-5 on MNIST Dataset
+- Apply trained network to negative images
+
+### ------------------HomeWork 6------------------------
+
+###### Problem 1: Feedforward CNN Design and Its Application to the MNIST Dataset
+
+- Understanding of feedforward-designed convolutional neural networks
+- Image reconstructions from Saab coefficients
+- Handwritten digits recognition using ensembles of feedforward design
